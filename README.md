@@ -1,4 +1,3 @@
 Hi
 
-I just made this to access mesoanalysis archive data a lot faster
-Nice and simple
+This is a fork, I just wanted to host a github pages website thing for it. Nothing serious, right?
